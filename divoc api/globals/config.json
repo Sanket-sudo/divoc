@@ -1,0 +1,13 @@
+{
+    "app": {
+        "name": "Divoc"
+    },
+    "private": {
+        "mongo": {
+            "url": "mongodb+srv://root:yAu8FYV2XJxLpLJX@mongod-pp0sw.mongodb.net/divoc"
+        },
+        "jwt": {
+            "key": "DiV0c$@nKET"
+        }
+    }
+}
